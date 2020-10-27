@@ -16,6 +16,9 @@ Vagrant.configure("2") do |config|
   end
 ```
 
+## Limitations
+It works with Virtualbox provider only.
+
 ## License
 
 The gem is available as open source under the terms of the MIT License.
